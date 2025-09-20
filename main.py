@@ -1,3 +1,5 @@
+#Implemented linear regression on the Boston housing dataset using ISLP library
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd 
